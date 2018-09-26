@@ -1,4 +1,4 @@
-# Solution des exercices de la séquence III de CMI015
+# Solutions des exercices de la séquence III de CMI015
 
 [Algorithme de Héron d'Alexandrie](https://github.com/fbuloup/CMI015/blob/master/HeronAlgorithm.ipynb)
 
