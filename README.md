@@ -6,4 +6,4 @@
 
 [Ensemble de Mandelbrot](https://github.com/fbuloup/CMI015/blob/master/MandelbrotSet.ipynb)
 
-[TP Leds Arduino](https://github.com/fbuloup/CMI015/blob/master/MandelbrotSet.ipynb)
+[TP Leds Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb)
