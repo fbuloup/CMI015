@@ -9,3 +9,5 @@
 # Le TP LED étalé sur les séquences V et VI
 
 [TP Leds Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb)
+
+[TP Leds Arduino simplifié](https://github.com/fbuloup/CMI015/blob/master/Arduino_Simple.ipynb)
