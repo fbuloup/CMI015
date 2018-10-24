@@ -6,6 +6,8 @@
 
 [Ensemble de Mandelbrot](https://github.com/fbuloup/CMI015/blob/master/MandelbrotSet.ipynb)
 
+[Tic-Tac-Toe](https://github.com/fbuloup/CMI015/blob/master/TicTacToe.ipynb)
+
 # Le TP LED étalé sur les séquences V et VI
 
 [TP Leds Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb)
