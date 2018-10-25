@@ -17,4 +17,4 @@
 
 # Le TP entrée analogique
 
-[TP Analogique](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb)
+[TP Analog Input](https://github.com/fbuloup/CMI015/blob/master/AnalogInput.ipynb)
