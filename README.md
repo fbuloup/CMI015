@@ -1,20 +1,20 @@
 # Solutions des exercices des séquences III et IV
 
-[Algorithme de Héron d'Alexandrie](https://github.com/fbuloup/CMI015/blob/master/HeronAlgorithm.ipynb)
+[Algorithme de Héron d'Alexandrie](https://github.com/fbuloup/CMI015/blob/master/HeronAlgorithm.ipynb?flush_cache=true)
 
-[Somme des termes pairs de la suite de Fibonacci](https://github.com/fbuloup/CMI015/blob/master/Fibonacci.ipynb)
+[Somme des termes pairs de la suite de Fibonacci](https://github.com/fbuloup/CMI015/blob/master/Fibonacci.ipynb?flush_cache=true)
 
-[Ensemble de Mandelbrot](https://github.com/fbuloup/CMI015/blob/master/MandelbrotSet.ipynb)
+[Ensemble de Mandelbrot](https://github.com/fbuloup/CMI015/blob/master/MandelbrotSet.ipynb?flush_cache=true)
 
-[Tic-Tac-Toe](https://github.com/fbuloup/CMI015/blob/master/TicTacToe.ipynb)
+[Tic-Tac-Toe](https://github.com/fbuloup/CMI015/blob/master/TicTacToe.ipynb?flush_cache=true)
 
 # Le TP LED étalé sur les séquences V et VI
 
-[TP Leds Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb)
+[TP Leds Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb?flush_cache=true)
 
-[TP Leds Arduino simplifié](https://github.com/fbuloup/CMI015/blob/master/Arduino_Simple.ipynb)
+[TP Leds Arduino simplifié](https://github.com/fbuloup/CMI015/blob/master/Arduino_Simple.ipynb?flush_cache=true)
 
 
 # Le TP entrée analogique
 
-[TP Analog Input](https://github.com/fbuloup/CMI015/blob/master/AnalogInput.ipynb)
+[TP Analog Input](https://github.com/fbuloup/CMI015/blob/master/AnalogInput.ipynb?flush_cache=true)
