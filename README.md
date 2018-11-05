@@ -17,8 +17,8 @@
 # Le projet et les TPs lui servant de base 
 Séquences V, VI et VII
 
-[TP Leds Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb?flush_cache=true)
+[Commande de sorties numériques de l'Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb?flush_cache=true)
 
-[TP Leds Arduino simplifié](https://github.com/fbuloup/CMI015/blob/master/Arduino_Simple.ipynb?flush_cache=true)
+[Commande de sorties numériques de l'Arduino simplifiée](https://github.com/fbuloup/CMI015/blob/master/Arduino_Simple.ipynb?flush_cache=true)
 
 [Lecture et transmission d'une entrée analogique par port série](https://github.com/fbuloup/CMI015/blob/master/AnalogInput.ipynb?flush_cache=true)
