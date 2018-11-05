@@ -12,7 +12,7 @@
 * [Tic-Tac-Toe](https://github.com/fbuloup/CMI015/blob/master/TicTacToe.ipynb?flush_cache=true)
 
 # Le projet et les TPs lui servant de base 
-Séquences V, VI et VII
+Séquences V et VI
 
 * [Le projet](https://www.overleaf.com/read/zgpkzqtgtwkq)
 * [Commande de sorties numériques de l'Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb?flush_cache=true)
