@@ -1,8 +1,8 @@
-# [Contenu Séquence I](https://www.overleaf.com/read/jpzpvvqpbftv)
+# Le contenu des quatre premières séquences
 
-# [Contenu Séquence II](https://www.overleaf.com/read/nxbynqkzygxs)
-
-# [Contenu Séquence III et IV](https://www.overleaf.com/read/tfmzjnfphpkn)
+* [Contenu Séquence I](https://www.overleaf.com/read/jpzpvvqpbftv)
+* [Contenu Séquence II](https://www.overleaf.com/read/nxbynqkzygxs)
+* [Contenu Séquence III et IV](https://www.overleaf.com/read/tfmzjnfphpkn)
 
 # Solutions des exercices des séquences III et IV
 
@@ -14,7 +14,7 @@
 
 [Tic-Tac-Toe](https://github.com/fbuloup/CMI015/blob/master/TicTacToe.ipynb?flush_cache=true)
 
-# Le projet et les TPs lui servant de base 
+# Le projet et les TPs lui servant de base (Séquences V, VI et VII)
 
 [TP Leds Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb?flush_cache=true)
 
