@@ -1,3 +1,9 @@
+# [Séquence I](https://www.overleaf.com/read/jpzpvvqpbftv)
+
+# [Séquence II](https://www.overleaf.com/read/nxbynqkzygxs)
+
+# [Séquence III IV](https://www.overleaf.com/read/tfmzjnfphpkn)
+
 # Solutions des exercices des séquences III et IV
 
 [Algorithme de Héron d'Alexandrie](https://github.com/fbuloup/CMI015/blob/master/HeronAlgorithm.ipynb?flush_cache=true)
