@@ -17,4 +17,4 @@
 
 # Le TP entrée analogique
 
-[TP Analog Input](https://github.com/fbuloup/CMI015/blob/master/AnalogInput.ipynb?flush_cache=true)
+[Lecture et transmission d'une entrée analogique par port série](https://github.com/fbuloup/CMI015/blob/master/AnalogInput.ipynb?flush_cache=true)
