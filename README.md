@@ -12,9 +12,11 @@
 * [Tic-Tac-Toe](https://github.com/fbuloup/CMI015/blob/master/TicTacToe.ipynb?flush_cache=true)
 
 # Le projet et les TPs lui servant de base 
-Séquences V et VI
+Pendant les séquences V et VI
 
 * [Le projet](https://www.overleaf.com/read/zgpkzqtgtwkq)
 * [Commande de sorties numériques de l'Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb?flush_cache=true)
 * [Commande de sorties numériques de l'Arduino simplifiée](https://github.com/fbuloup/CMI015/blob/master/Arduino_Simple.ipynb?flush_cache=true)
 * [Lecture et transmission d'une entrée analogique par port série](https://github.com/fbuloup/CMI015/blob/master/AnalogInput.ipynb?flush_cache=true)
+
+# La dernière séquence et le contrôle continu
