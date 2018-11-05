@@ -14,13 +14,10 @@
 
 [Tic-Tac-Toe](https://github.com/fbuloup/CMI015/blob/master/TicTacToe.ipynb?flush_cache=true)
 
-# Le TP LED étalé sur les séquences V et VI
+# Le projet et les TPs lui servant de base 
 
 [TP Leds Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb?flush_cache=true)
 
 [TP Leds Arduino simplifié](https://github.com/fbuloup/CMI015/blob/master/Arduino_Simple.ipynb?flush_cache=true)
-
-
-# Le TP entrée analogique
 
 [Lecture et transmission d'une entrée analogique par port série](https://github.com/fbuloup/CMI015/blob/master/AnalogInput.ipynb?flush_cache=true)
