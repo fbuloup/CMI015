@@ -1,8 +1,8 @@
 # Le contenu des quatre premières séquences
 
-* [Contenu Séquence I](https://www.overleaf.com/read/jpzpvvqpbftv)
-* [Contenu Séquence II](https://www.overleaf.com/read/nxbynqkzygxs)
-* [Contenu Séquence III et IV](https://www.overleaf.com/read/tfmzjnfphpkn)
+* [Séquence I](https://www.overleaf.com/read/jpzpvvqpbftv)
+* [Séquence II](https://www.overleaf.com/read/nxbynqkzygxs)
+* [Séquence III et IV](https://www.overleaf.com/read/tfmzjnfphpkn)
 
 # Solutions des exercices des séquences III et IV
 
