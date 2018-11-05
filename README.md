@@ -14,7 +14,8 @@
 
 [Tic-Tac-Toe](https://github.com/fbuloup/CMI015/blob/master/TicTacToe.ipynb?flush_cache=true)
 
-# Le projet et les TPs lui servant de base (Séquences V, VI et VII)
+# Le projet et les TPs lui servant de base 
+Séquences V, VI et VII
 
 [TP Leds Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb?flush_cache=true)
 
