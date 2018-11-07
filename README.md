@@ -20,7 +20,8 @@ Pendant les séquences V et VI
 * [Lecture et transmission d'une entrée analogique par port série](https://github.com/fbuloup/CMI015/blob/master/AnalogInput.ipynb?flush_cache=true)
 
 # La dernière séquence et le contrôle continu
-
-[comment]: <> ([CC_2018](https://www.overleaf.com/read/hmbwwnrvxcmx))
+<!--
+[CC_2018](https://www.overleaf.com/read/hmbwwnrvxcmx)
+-->
 
 
