@@ -21,8 +21,8 @@ Pendant les séquences V et VI
 
 # La dernière séquence et le contrôle continu
 <!--
-[CC2018](https://www.overleaf.com/read/hmbwwnrvxcmx)
-[Correction CC 2018](https://www.overleaf.com/read/cjspwfpvwxrj)
+[Contrôle continu 2018](https://www.overleaf.com/read/hmbwwnrvxcmx)
+[Correction contrôle continu 2018](https://www.overleaf.com/read/cjspwfpvwxrj)
 -->
 
 
