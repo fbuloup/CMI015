@@ -24,3 +24,7 @@ Pendant les séquences V et VI
 * [Correction contrôle continu 2018](https://www.overleaf.com/read/cjspwfpvwxrj)
 * [Contrôle continu 2018 BIS](https://fr.overleaf.com/read/xtcmdxhvkbbq)
 * [Correction contrôle continu 2018 BIS](https://fr.overleaf.com/read/brgfvbtvcgry)
+* [Contrôle final 2018](https://fr.overleaf.com/read/xtcmdxhvkbbq)
+* [Correction contrôle final 2018](https://www.overleaf.com/read/fwqcnptbtyvh)
+
+
