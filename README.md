@@ -18,7 +18,7 @@ Pendant les séquences V et VI
 * [Commande de sorties numériques de l'Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb?flush_cache=true)
 * [Commande de sorties numériques de l'Arduino simplifiée](https://github.com/fbuloup/CMI015/blob/master/Arduino_Simple.ipynb?flush_cache=true)
 * [Lecture et transmission d'une entrée analogique par port série](https://github.com/fbuloup/CMI015/blob/master/AnalogInput.ipynb?flush_cache=true)
-* [Lecture et transmission d'une entrée analogique par port série avec enregistrement des données](https://github.com/fbuloup/CMI015/blob/master/AnalogInput.ipynb?flush_cache=true)
+* [Lecture et transmission d'une entrée analogique par port série avec enregistrement des données](https://github.com/fbuloup/CMI015/blob/master/saveData.ipynb?flush_cache=true)
 
 # Les contrôles continu (la dernière séquence) et final
 * [Contrôle continu 2018](https://www.overleaf.com/read/hmbwwnrvxcmx)
