@@ -10,17 +10,17 @@
 
 * [Algorithme de Héron d'Alexandrie](https://nbviewer.jupyter.org/github/fbuloup/CMI015/blob/master/HeronAlgorithm.ipynb)
 * [Somme des termes pairs de la suite de Fibonacci](https://nbviewer.jupyter.org/github/fbuloup/CMI015/blob/master/Fibonacci.ipynb)
-* [Ensemble de Mandelbrot](https://github.com/fbuloup/CMI015/blob/master/MandelbrotSet.ipynb?flush_cache=true)
-* [Tic-Tac-Toe](https://github.com/fbuloup/CMI015/blob/master/TicTacToe.ipynb?flush_cache=true)
+* [Ensemble de Mandelbrot](https://nbviewer.jupyter.org/github/fbuloup/CMI015/blob/master/MandelbrotSet.ipynb)
+* [Tic-Tac-Toe](https://nbviewer.jupyter.org/github/fbuloup/CMI015/blob/master/TicTacToe.ipynb)
 
 # Le projet et les TPs lui servant de base 
 Pendant les séquences V et VI
 
 * [Le projet](https://www.overleaf.com/read/zgpkzqtgtwkq)
-* [Commande de sorties numériques de l'Arduino](https://github.com/fbuloup/CMI015/blob/master/Arduino.ipynb?flush_cache=true)
-* [Commande de sorties numériques de l'Arduino simplifiée](https://github.com/fbuloup/CMI015/blob/master/Arduino_Simple.ipynb?flush_cache=true)
-* [Lecture et transmission d'une entrée analogique par port série](https://github.com/fbuloup/CMI015/blob/master/AnalogInput.ipynb?flush_cache=true)
-* [Lecture et transmission d'une entrée analogique par port série avec enregistrement des données](https://github.com/fbuloup/CMI015/blob/master/saveData.ipynb?flush_cache=true)
+* [Commande de sorties numériques de l'Arduino](https://nbviewer.jupyter.org/github/fbuloup/CMI015/blob/master/Arduino.ipynb)
+* [Commande de sorties numériques de l'Arduino simplifiée](https://nbviewer.jupyter.org/github/fbuloup/CMI015/blob/master/Arduino_Simple.ipynb)
+* [Lecture et transmission d'une entrée analogique par port série](https://nbviewer.jupyter.org/github/fbuloup/CMI015/blob/master/AnalogInput.ipynb)
+* [Lecture et transmission d'une entrée analogique par port série avec enregistrement des données](https://nbviewer.jupyter.org/github/fbuloup/CMI015/blob/master/saveData.ipynb)
 
 # Les contrôles continu (la dernière séquence) et final
 * [Contrôle continu 2018](https://www.overleaf.com/read/hmbwwnrvxcmx)
